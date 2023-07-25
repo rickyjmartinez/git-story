@@ -2,5 +2,6 @@ This is a short story.
 first change: adding a line
 It is short. 
 The story is short. 
+it is not long
 The End. 
 how short is it?
